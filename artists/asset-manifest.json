@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.a8ab0ef4.chunk.css",
-    "main.js": "./static/js/main.f6e5eadf.chunk.js",
-    "main.js.map": "./static/js/main.f6e5eadf.chunk.js.map",
+    "main.js": "./static/js/main.f42de0df.chunk.js",
+    "main.js.map": "./static/js/main.f42de0df.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.3e961a9c.js",
     "runtime-main.js.map": "./static/js/runtime-main.3e961a9c.js.map",
     "static/css/2.117ce29f.chunk.css": "./static/css/2.117ce29f.chunk.css",
     "static/js/2.9715c155.chunk.js": "./static/js/2.9715c155.chunk.js",
     "static/js/2.9715c155.chunk.js.map": "./static/js/2.9715c155.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.580e0febcc13679a9a30c4b4fd68c290.js": "./precache-manifest.580e0febcc13679a9a30c4b4fd68c290.js",
+    "precache-manifest.2f14cdf8150936ca4a49fb4db21a9b39.js": "./precache-manifest.2f14cdf8150936ca4a49fb4db21a9b39.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.117ce29f.chunk.css.map": "./static/css/2.117ce29f.chunk.css.map",
     "static/css/main.a8ab0ef4.chunk.css.map": "./static/css/main.a8ab0ef4.chunk.css.map",
@@ -25,6 +25,7 @@
     "static/media/auburn-road-forest.jpg": "./static/media/auburn-road-forest.ac5a1b9d.jpg",
     "static/media/cedric-and-sonna.jpg": "./static/media/cedric-and-sonna.ae7d526b.jpg",
     "static/media/cedric.jpg": "./static/media/cedric.196cfed8.jpg",
+    "static/media/christmas-collage.jpg": "./static/media/christmas-collage.307c93ec.jpg",
     "static/media/powerbase-christmas.jpg": "./static/media/powerbase-christmas.1c6b3575.jpg",
     "static/media/powerbase-logo-new.png": "./static/media/powerbase-logo-new.536ef9fc.png",
     "static/media/powerbase-logo-white.png": "./static/media/powerbase-logo-white.b754c7a1.png",
@@ -38,6 +39,6 @@
     "static/css/2.117ce29f.chunk.css",
     "static/js/2.9715c155.chunk.js",
     "static/css/main.a8ab0ef4.chunk.css",
-    "static/js/main.f6e5eadf.chunk.js"
+    "static/js/main.f42de0df.chunk.js"
   ]
 }

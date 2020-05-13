@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d22f6af44dbc9bc75027ff61f637d0f4",
+    "revision": "f340a8dd16b742366eb96ce6ea89247a",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.117ce29f.chunk.css"
   },
   {
-    "revision": "d0fbfb7ccb8ee7750d07",
+    "revision": "641e6dd0dc0af840993c",
     "url": "./static/css/main.a8ab0ef4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.9715c155.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0fbfb7ccb8ee7750d07",
-    "url": "./static/js/main.f6e5eadf.chunk.js"
+    "revision": "641e6dd0dc0af840993c",
+    "url": "./static/js/main.f42de0df.chunk.js"
   },
   {
     "revision": "101375adb3ce17e7f081",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "196cfed82801aa7efb2a12385aab7496",
     "url": "./static/media/cedric.196cfed8.jpg"
+  },
+  {
+    "revision": "307c93ec10404306d7b3961bf3ea19e8",
+    "url": "./static/media/christmas-collage.307c93ec.jpg"
   },
   {
     "revision": "1c6b3575e571b198f6c333c3926095cb",
